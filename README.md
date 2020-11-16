@@ -8,3 +8,5 @@ Installation (Windows)
 * Download the latest version of [OpenB3D for FreeBasic (Win32)](https://sourceforge.net/projects/minib3d/files/)
 * Extract the header file (openb3d.bi) and the DLL (openb3d.dll) into the same dir as the source file
 * Run `fbc ob3d_demo.bas`
+
+Use WASD to move and arrow keys to look around
